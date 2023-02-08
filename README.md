@@ -1,2 +1,2 @@
-# knowledgebase
+# knowledge base
 knowledge base
